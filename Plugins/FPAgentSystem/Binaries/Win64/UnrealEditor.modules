@@ -1,0 +1,8 @@
+{
+	"BuildId": "55116800",
+	"Modules": 
+	{
+		"FPAgentSystem": "UnrealEditor-FPAgentSystem.dll",
+		"FPAgentSystemEditor": "UnrealEditor-FPAgentSystemEditor.dll"
+	}
+}
