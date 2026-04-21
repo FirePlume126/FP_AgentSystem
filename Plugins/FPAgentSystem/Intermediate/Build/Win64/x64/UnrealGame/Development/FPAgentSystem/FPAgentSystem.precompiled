@@ -1,0 +1,25 @@
+{
+	"OutputFiles": [
+		"Module.FPAgentSystem.cpp.obj",
+		"FPAgentSystemModule.cpp.obj",
+		"FPAgentConfigBase.cpp.obj",
+		"FPAgentConfig_Custom.cpp.obj",
+		"FPAgentConfig_Platform.cpp.obj",
+		"FPAgentContext.cpp.obj",
+		"FPAgentCore.cpp.obj",
+		"FPAgentStreamParser.cpp.obj",
+		"FPAgentToolBase.cpp.obj",
+		"FPAgentToolManager.cpp.obj",
+		"FPAgentTypes.cpp.obj",
+		"FPAgentMCPClient.cpp.obj",
+		"FPAgentTool_MCP.cpp.obj",
+		"FPAgentSkillManager.cpp.obj",
+		"FPAgentTool_Skill.cpp.obj",
+		"FPAgentProjectSettings.cpp.obj",
+		"FPAgentCaptureViewportAsyncAction.cpp.obj",
+		"FPAgentFunctionLibrary.cpp.obj",
+		"FPAgentHttpRequestAsyncAction.cpp.obj",
+		"FPAgentWaitResponseAsyncAction.cpp.obj"
+	],
+	"ToolChainVersion": "14.44.35229"
+}
